@@ -1,5 +1,5 @@
 <h1>Hello, I'm Hameed</h1>
-<h3>A Back-end Developer</h3>
+<h3>A Web Developer</h3>
 
 - 📫 How to reach me **hameedhassan9542@gmail.com**
 
