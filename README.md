@@ -2,6 +2,7 @@
 <h3>A Web Developer</h3>
 
 - 📫 Email **hameedhassan9542@gmail.com**
+- 👀 Looking for software engineer job.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
