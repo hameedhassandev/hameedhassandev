@@ -2,12 +2,13 @@
 <h3>A Full Stack Developer</h3>
 
 - 📫 Email **hameedhassan9542@gmail.com**
-- 👀 Looking for software engineer job.
+- Full Stack Developer.
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/hameed-hassan-53a15b18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hameed-hassan" height="30" width="40" /></a>
 <p align="left">
 
+<p><img align="center" src="https://github.com/hameedhassandev/hameedhassandev/assets/57669085/208360ca-14f1-4f28-a9d7-263b7cf21aff" alt="hameedhassandev" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,4 +18,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hameedhassandev&show_icons=true&locale=en&layout=compact" alt="one-me" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hameedhassandev&show_icons=true&locale=en&layout=compact" alt="hameedhassandev" /></p>
