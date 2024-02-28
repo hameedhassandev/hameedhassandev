@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/hameed-hassan-53a15b18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hameed-hassan" height="30" width="40" /></a>
 <p align="left">
 
-<p><img align="center" src="https://github.com/hameedhassandev/hameedhassandev/assets/57669085/208360ca-14f1-4f28-a9d7-263b7cf21aff" style="width:200px !important" alt="on-me" /></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
